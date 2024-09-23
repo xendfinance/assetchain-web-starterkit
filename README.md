@@ -1,7 +1,7 @@
 
 # Asset Chain Web Starterkit
 
-Asset Chain Web Starterkit is a fork of Scaffold-ETH-2 ready for you to start shipping to AssetChain . This fork provides native support for Asset Chain testnet, direct access to the Asset Chain faucets
+Asset Chain Web Starterkit is a fork of Scaffold-ETH-2 ready for you to start shipping to Asset Chain. This fork provides native support for Asset Chain testnet, direct access to the Asset Chain faucets
 
 
 We highly recommend the Scaffold-ETH-2 docs as the primary guideline.

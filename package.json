@@ -1,7 +1,8 @@
 {
-  "name": "se-2",
+  "name": "assetchain-web-starterkit",
   "version": "0.0.1",
-  "private": true,
+  "description": "Asset Chain Web Starterkit is a fork of Scaffold-ETH-2 ready for you to start shipping to Asset Chain",
+  "author": "",
   "workspaces": {
     "packages": [
       "packages/hardhat",
