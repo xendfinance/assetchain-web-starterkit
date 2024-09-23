@@ -1,7 +1,7 @@
 
-# Scaffold-AssetChain ⛓️‍💥
+# Asset Chain Web Starterkit
 
-Scaffold-AssetChain is a fork of Scaffold-ETH-2 ready to ship to AssetChain . This fork provides native support for AssetChain testnet, direct access to the AssetChain faucets
+Asset Chain Web Starterkit is a fork of Scaffold-ETH-2 ready for you to start shipping to AssetChain . This fork provides native support for Asset Chain testnet, direct access to the Asset Chain faucets
 
 
 We highly recommend the Scaffold-ETH-2 docs as the primary guideline.
@@ -35,8 +35,8 @@ To get started with Scaffold-Base, follow the steps below:
 1. Clone this repo & install dependencies
 
 ```
-git clone https://github.com/xendfinance/scaffold-assetchain
-cd scaffold-assetchain
+git clone https://github.com/xendfinance/assetchain-web-starterkit
+cd assetchain-web-starterkit
 yarn install
 ```
 
