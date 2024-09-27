@@ -39,7 +39,7 @@ git clone https://github.com/xendfinance/assetchain-web-starterkit
 cd assetchain-web-starterkit
 yarn install
 ```
-Alternatively,  you can run the cmd below to start a new project using the Asset Chain React Native StarterKit:
+Alternatively,  you can run the cmd below to start a new project using the Asset Chain NextJS StarterKit:
 ```
 > npx create-next-app@latest --example "https://github.com/xendfinance/assetchain-web-starterkit" [your-project-name]
 ```
