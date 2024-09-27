@@ -30,7 +30,7 @@ Before you begin, you need to install the following tools:
 
 ## Quickstart
 
-To get started with Scaffold-Base, follow the steps below:
+To get started with Asset Chain, follow the steps below:
 
 1. Clone this repo & install dependencies
 
@@ -38,6 +38,10 @@ To get started with Scaffold-Base, follow the steps below:
 git clone https://github.com/xendfinance/assetchain-web-starterkit
 cd assetchain-web-starterkit
 yarn install
+```
+Alternatively,  you can run the cmd below to start a new project using the Asset Chain React Native StarterKit:
+```
+> npx create-next-app@latest --example "https://github.com/xendfinance/assetchain-web-starterkit" [your-project-name]
 ```
 
 You can customize the network configuration in `hardhat.config.ts`.
